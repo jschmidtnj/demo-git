@@ -2,6 +2,9 @@ from sys import argv
 
 <<<<<<< HEAD
 def cat():
+    """
+    docstring for cat
+    """
     print('meow')
 
 =======
